@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nube-san
-- 👀 I’m interested in ... still figuring that out
+- 👀 I’m interested in ... learning anything that will help me be a better developer
 - 🌱 I’m currently learning ... Java
-- 💞️ I’m looking to collaborate on ... anything Java related. 
+- 💞️ I’m looking to collaborate on ... anything Java related
 - 📫 How to reach me ... gariribarren@gmail.com
 
 <!---
